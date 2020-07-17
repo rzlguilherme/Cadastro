@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NovoCadastro2</string>
+    <string name="CPF">CPF</string>
+    <string name="Endereço">Endereço</string>
+    <string name="Nome1">Nome</string>
+    <string name="btnCad">Cadastrar</string>
+    <string-array name="Profissao">
+        <item>Tecnico</item>
+        <item>Treinador</item>
+        <item>Jogador</item>
+        <item>Funcionario</item>
+    </string-array>
+</resources>
